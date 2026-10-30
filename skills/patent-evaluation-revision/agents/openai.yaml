@@ -1,0 +1,4 @@
+interface:
+  display_name: "专利评估定向修订"
+  short_description: "以D/C级提升至B级为目标，依据评估报告定点修订专利稿"
+  default_prompt: "使用 $patent-evaluation-revision，分析我提供的专利文稿与评估报告，明确修改依据后完成我授权的修订，并核对复评变化。"
